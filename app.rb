@@ -23,4 +23,3 @@ class BigApp < Sinatra::Application
     erb :styles, :layout => false
   end
 end
-end
